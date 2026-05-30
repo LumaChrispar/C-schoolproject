@@ -1,1 +1,0 @@
-/home/luma/Desktop/C schoolproject/student_record_management_assignment.md
