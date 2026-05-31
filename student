@@ -1,2 +1,5 @@
 student id | student Name| student age | student department | student GPA
-123,		chrispar|,		12|,		CE|,		12.30|
+1,rice,12,CE,2.71
+101,John,20,Computer Science,3.80
+102,Jane,21,Mathematics,3.90
+103,Bob,19,Physics,3.50

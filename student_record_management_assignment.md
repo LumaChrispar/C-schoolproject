@@ -126,13 +126,13 @@ Students shall submit:
 ## Bonus Features *(Optional)*
 
 Students may earn bonus marks for implementing:
-- Sorting records
-- GPA statistics
+- Sorting records = 1
+- GPA statistics = 1
 - Colored console output
-- Password protection
+- Password protection = 1
 - Pagination
 - Doubly linked lists
-- Search by name
+- Search by name = 1
 ( our teacher is not nice ya its final)
 ---
 
