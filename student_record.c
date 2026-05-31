@@ -414,7 +414,7 @@ int main(){
             break;
         }
         case 5: {
-            // to delete a student by id
+            // and this one is to delete a student by id
             int deleteid;
             printf("Enter Student ID to delete: ");
             if(scanf("%d", &deleteid) != 1){ clearbuffer(); printf("Invalid ID.\n"); break; }
